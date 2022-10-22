@@ -1,0 +1,11 @@
+body {
+    background-image: url(./background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.card {
+    background-color: #55595c;
+    border-radius: 10px;
+}
